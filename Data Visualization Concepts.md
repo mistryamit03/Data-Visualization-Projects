@@ -1,13 +1,13 @@
 # Data-Visualization 
-
+----
 **Background**
-
+---
 This project was a formal report created as an exercise to understand the principles of Data Visualization and efficient storytelling. 
 
 “The aim of a good story is intended to create meaningful messages and create memorable takeaways, as you will often read or hear in data visualization material, amplifying cognition to a good data story also gives rise to serendipitous discoveries, those which happen accidentally”
 
-**Principles of Data Visualization** 
-
+# Principles of Data Visualization 
+--
 Data visualization is about translating data into visual representations that allow people to see patterns, trends, and outliers in large datasets. To be effective, data visualizations need to adhere to several principles that make them clear, intuitive, and actionable. Here are the core principles of data visualization:
 
 1. **Clarity and Simplicity**
@@ -41,8 +41,8 @@ In digital formats, interactivity can help users explore data at their own pace 
 Every good data visualization should tell a clear and compelling story, guiding the viewer from question to insight, and potentially to action.
 
 
-**Principles of Data Storytelling**
-
+# Principles of Data Storytelling
+----
 Data storytelling is the art of presenting data in a compelling and understandable way by blending facts, visuals, and narratives. The goal is to communicate insights in a manner that engages the audience and drives action. Here are the core principles of data storytelling:
 
 **1. Understand Your Audience:**
