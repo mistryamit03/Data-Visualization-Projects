@@ -22,7 +22,7 @@
 **Dataset:** Structured dataset
 **Type:** Questionnare
 **Applications used for Data cleaning:** Excel, Tableau
-**Link: ** https://public.tableau.com/app/profile/amit1775/viz/HRDataAnalyticsKPIDashboard/HRDataAnalyticsKPI
+**Link:** https://public.tableau.com/app/profile/amit1775/viz/HRDataAnalyticsKPIDashboard/HRDataAnalyticsKPI
 
 # Data Analytics Blogs
 
@@ -40,15 +40,18 @@ The K-means clustering algorithm is a simple unsupervised algorithm that’s use
 **Diet3:** Belongs to the Pro Diet cluster along with the beverages which fall in that category.
 
 **Type:** Structured Dataset
+
 **Applications used for Data cleaning:** Excel, Jupyter Notebook Python
+
 **Projectlink:** https://medium.com/@mistryamit03/starbucks-menu-optimization-55735d431f51
 
 
 **5. Creating dashboards for Music Trends using Tableau - Spotify Regional Dataset**
 
-**Project summary:** Blogged about a project conducted with a focus on customer segmentation using Machine Learning and Classification Model K-Means Clustering. This project was an attempt to optimize the menu of Starbucks coffee to tailor them for the health-conscious customers for products to taste great and develop drinks which have less sugar and calories contents. The dataset 
+**Project summary:** Blogged about a project focused on customer segmentation using Machine Learning and Classification Model K-Means Clustering. This project was an attempt to optimize the menu of Starbucks coffee to tailor them for the health-conscious customers for products to taste great and develop drinks which have less sugar and calories contents. The dataset 
 
 **Final Result:** 
+
 To determine 
 
 · Who are the most popular artists in the Spotify top 200?
@@ -60,6 +63,9 @@ To determine
 · Which tracks are streaming most over time?
 
 **Dataset Link:** https://spotifycharts.com/regional
+
 **Type:** Structured Dataset
 
 **Applications used for Data cleaning:** Excel, Jupyter Notebook Python
+
+**Projectlink:** https://medium.com/@mistryamit03/data-design-spotify-regional-data-b35c7800f493 
