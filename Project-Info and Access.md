@@ -29,7 +29,6 @@
 
 **Menu Optimization, Segmentation, and Clustering using Supervised Machine Learning Model - K-means Clustering**
 -
-
 **Project summary:** Blogged about a project conducted with a focus on customer segmentation using Machine Learning and Classification Model K-Means Clustering. This project was an attempt to optimize the menu of Starbucks coffee to tailor them for the health-conscious customers for products to taste great and develop drinks which have less sugar and calories contents. The dataset we are aiming to use in this report is nutritional data focusing on the catalogue of beverages offered at Starbucks along with their nutritional content. 
 
 The K-means clustering algorithm is a simple unsupervised algorithm that’s used for quickly predicting groupings from an unlabelled dataset. Clustering is the mechanism by which a given set of patterns is partitioned or clustered into disjointed clusters, and is so done that patterns of the same cluster are identical and patterns of two different clusters vary. 
