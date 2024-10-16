@@ -10,7 +10,8 @@
 
 **Applications used for Data cleaning**: SPSS, Excel, Qliksense 
 
-
+**Link:** https://github.com/mistryamit03/Data-Visualization-Projects/blob/main/Project%20-%20An%20Email%20Survey%20-%20Data%20Visualization%2C%20Interpretation%20and%20Storytelling.pdf
+ 
 **2. Sales Performance Dashboard:**
 
 **Objective**: To create a sales performance dashboard based on the dataset available. The Sales Performance Dashboard using Category Management Dashboard provides info about overall sales performance including count of orders, sales by product category, Profit Binning, profit category, Customer Profit vs sales
