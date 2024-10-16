@@ -3,31 +3,46 @@
 **1. An Email survey:**
 
 **Objective**: To apply the concepts of storytelling and create a dashboard to portray a story
+
 **Dataset:** Unstructured dataset
+
 **Type:** Questionnare
+
 **Applications used for Data cleaning**: SPSS, Excel, Qliksense 
 
 
 **2. Sales Performance Dashboard:**
 
 **Objective**: To create a sales performance dashboard based on the dataset available. The Sales Performance Dashboard using Category Management Dashboard provides info about overall sales performance including count of orders, sales by product category, Profit Binning, profit category, Customer Profit vs sales
+
 **Dataset:** Structured dataset
+
 **Type:** Questionnare
+
 **Applications used for Data cleaning:** Excel, Tableau
+
 **Link:** https://public.tableau.com/app/profile/amit1775/viz/CategoryManagement_16056355012950/SalesPerformanceDashboard
 
 **3. HR Analytics Dashboard**
 
+
 **Objective**: This dashboard describes HR analytics of a company based on Dept, Attrition Rate Job Role and current Manager, and number of companies worked, attrition relation with a number of companies worked with the job role.
+
 **Dataset:** Structured dataset
+
 **Type:** Questionnare
+
 **Applications used for Data cleaning:** Excel, Tableau
+
 **Link:** https://public.tableau.com/app/profile/amit1775/viz/HRDataAnalyticsKPIDashboard/HRDataAnalyticsKPI
 
 # Data Analytics Blogs
 
 **4. Menu Optimization, Segmentation, and Clustering using Supervised Machine Learning Model - K-means Clustering**
-**Project summary:** Blogged about a project focused on customer segmentation using Machine Learning and Classification Model K-Means Clustering. This project was an attempt to optimize the menu of Starbucks coffee to tailor it to health-conscious customers so that the products taste great and develop drinks with less sugar and calorie content. The dataset we are aiming to use in this report is nutritional data focusing on the catalogue of beverages offered at Starbucks along with their nutritional content. 
+
+**Project summary:** 
+
+Blogged about a project focused on customer segmentation using Machine Learning and Classification Model K-Means Clustering. This project was an attempt to optimize the menu of Starbucks coffee to tailor it to health-conscious customers so that the products taste great and develop drinks with less sugar and calorie content. The dataset we are aiming to use in this report is nutritional data focusing on the catalogue of beverages offered at Starbucks along with their nutritional content. 
 
 The K-means clustering algorithm is a simple unsupervised algorithm that’s used for quickly predicting groupings from an unlabelled dataset. Clustering is the mechanism by which a given set of patterns is partitioned or clustered into disjointed clusters, and is so done that patterns of the same cluster are identical and patterns of two different clusters vary. 
 
