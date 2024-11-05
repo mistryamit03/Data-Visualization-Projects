@@ -5,8 +5,11 @@
 **Objective**: To determine and monitor the performance of the website performance KPIs metrics
 
 · Demographic Data - **Gender, Income**
+
 . Marketing Specific KPIs: **Conversion Rate, Click Through Rate (CTRs), Adspent Revenue, Campaign Channel, Campaign Type**
+
 . Customer Engagement KPIs: **Website visitors, Time spent, Email open/close rate**
+
 . **Previous Purchase Parity**
 
 **Dataset:** Structured dataset
