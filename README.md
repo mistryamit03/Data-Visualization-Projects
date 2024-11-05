@@ -14,6 +14,8 @@
 
 **Dataset:** Structured dataset
 
+**Domain:** Marketing / Advertising Analytics
+
 **Type:** csv
 
 **Applications used for Data cleaning and visualisation**: **Python, Excel, Looker Studio** 
@@ -26,6 +28,8 @@
 
 **Dataset:** Structured dataset
 
+**Domain:** Operations and Finance
+
 **Type:** csv
 
 **Applications used for Data cleaning and visualisation:** **Python, Excel, Tableau**
@@ -37,6 +41,8 @@
 **Objective**: This dashboard describes HR analytics of a company based on Dept, Attrition Rate Job Role and current Manager, and number of companies worked, attrition relation with a number of companies worked with the job role.
 
 **Dataset:** Structured dataset
+
+**Domain:** HR Analytics
 
 **Type:** Questionnare
 
