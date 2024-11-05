@@ -3,10 +3,11 @@
 **1. Website / Campaign Performance KPI Dashboard:**
 
 **Objective**: To determine and monitor the performance of the website performance KPIs metrics
-       - Demographic Data - **Gender, Income**
-       - Marketing Specific KPIs: **Conversion Rate, Click Through Rate (CTRs), Adspent Revenue, Campaign Channel, Campaign Type**
-       - Customer Engagement KPIs: **Website visitors, Time spent, Email open/close rate**
-       - **Previous Purchase Parity**
+
+· Demographic Data - **Gender, Income**
+. Marketing Specific KPIs: **Conversion Rate, Click Through Rate (CTRs), Adspent Revenue, Campaign Channel, Campaign Type**
+. Customer Engagement KPIs: **Website visitors, Time spent, Email open/close rate**
+. **Previous Purchase Parity**
 
 **Dataset:** Structured dataset
 
@@ -28,7 +29,7 @@
 
 **Link:** https://public.tableau.com/app/profile/amit1775/viz/CategoryManagement_16056355012950/SalesPerformanceDashboard
 
-**3. HR Analytics Dashboard**
+**3. HR Analytics Dashboard:**
 
 **Objective**: This dashboard describes HR analytics of a company based on Dept, Attrition Rate Job Role and current Manager, and number of companies worked, attrition relation with a number of companies worked with the job role.
 
