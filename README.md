@@ -1,31 +1,34 @@
 # Public Project Portfolio Links
 
-**1. An Email survey:**
+**1. Website / Campaign Performance KPI Dashboard:**
 
-**Objective**: To apply the concepts of storytelling and create a dashboard to portray a story
+**Objective**: To determine and monitor the performance of the website performance KPIs metrics
+       - Demographic Data - **Gender, Income**
+       - Marketing Specific KPIs: **Conversion Rate, Click Through Rate (CTRs), Adspent Revenue, Campaign Channel, Campaign Type**
+       - Customer Engagement KPIs: **Website visitors, Time spent, Email open/close rate**
+       - **Previous Purchase Parity**
 
-**Dataset:** Unstructured dataset
+**Dataset:** Structured dataset
 
-**Type:** Questionnare
+**Type:** csv
 
-**Applications used for Data cleaning**: SPSS, Excel, Qliksense 
+**Applications used for Data cleaning and visualisation**: **Python, Excel, Looker Studio** 
 
-**Link:** https://github.com/mistryamit03/Data-Visualization-Projects/blob/main/Project%20-%20An%20Email%20Survey%20-%20Data%20Visualization%2C%20Interpretation%20and%20Storytelling.pdf
- 
+**Link:** https://github.com/mistryamit03/Data-Visualization-Projects/blob/main/Project%20-%20Website%20Campaign%20Performance%20Dashboard.pdf 
+
 **2. Sales Performance Dashboard:**
 
 **Objective**: To create a sales performance dashboard based on the dataset available. The Sales Performance Dashboard using Category Management Dashboard provides info about overall sales performance including count of orders, sales by product category, Profit Binning, profit category, Customer Profit vs sales
 
 **Dataset:** Structured dataset
 
-**Type:** Questionnare
+**Type:** csv
 
-**Applications used for Data cleaning:** Excel, Tableau
+**Applications used for Data cleaning and visualisation:** **Python, Excel, Tableau**
 
 **Link:** https://public.tableau.com/app/profile/amit1775/viz/CategoryManagement_16056355012950/SalesPerformanceDashboard
 
 **3. HR Analytics Dashboard**
-
 
 **Objective**: This dashboard describes HR analytics of a company based on Dept, Attrition Rate Job Role and current Manager, and number of companies worked, attrition relation with a number of companies worked with the job role.
 
@@ -33,9 +36,24 @@
 
 **Type:** Questionnare
 
-**Applications used for Data cleaning:** Excel, Tableau
+**Applications used for Data cleaning and visualisation:** **Excel, Tableau**
 
 **Link:** https://public.tableau.com/app/profile/amit1775/viz/HRDataAnalyticsKPIDashboard/HRDataAnalyticsKPI
+
+**4. An Email survey:**
+
+**Objective**: To apply the concepts of storytelling and create a dashboard to portray a story
+
+**Dataset:** Unstructured dataset
+
+**Type:** Questionnare
+
+**Applications used for Data cleaning and visualisation**: **SPSS, Excel, Qliksense** 
+
+**Link:** https://github.com/mistryamit03/Data-Visualization-Projects/blob/main/Project%20-%20An%20Email%20Survey%20-%20Data%20Visualization%2C%20Interpretation%20and%20Storytelling.pdf
+ 
+
+
 
 # Data Analytics Blogs
 
@@ -57,7 +75,7 @@ The K-means clustering algorithm is a simple unsupervised algorithm that’s use
 
 **Type:** Structured Dataset
 
-**Applications used for Data cleaning:** Excel, Jupyter Notebook Python
+**Applications used for Data cleaning:** **Excel, Jupyter Notebook Python**
 
 **Projectlink:** https://medium.com/@mistryamit03/starbucks-menu-optimization-55735d431f51
 
@@ -82,6 +100,6 @@ To determine
 
 **Type:** Structured Dataset
 
-**Applications used for Data cleaning:** Excel, Jupyter Notebook Python
+**Applications used for Data cleaning:** **Excel, Jupyter Notebook Python**
 
 **Projectlink:** https://medium.com/@mistryamit03/data-design-spotify-regional-data-b35c7800f493 
