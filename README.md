@@ -20,7 +20,7 @@
 
 **Tools used for Data cleaning and visualisation**: **Python, Excel, Looker Studio** 
 
-**Link:** https://github.com/mistryamit03/Data-Visualization-Projects/blob/main/Project%20-%20Website%20Campaign%20Performance%20Dashboard.pdf 
+**Link:** https://lookerstudio.google.com/u/0/reporting/3b20dc75-9d8c-4de9-9144-3dfc9297ea77/page/YBeJE 
 
 **2. Sales Performance Dashboard:**
 
