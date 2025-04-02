@@ -18,7 +18,7 @@
 
 **Type:** csv
 
-**Applications used for Data cleaning and visualisation**: **Python, Excel, Looker Studio** 
+**Tools used for Data cleaning and visualisation**: **Python, Excel, Looker Studio** 
 
 **Link:** https://github.com/mistryamit03/Data-Visualization-Projects/blob/main/Project%20-%20Website%20Campaign%20Performance%20Dashboard.pdf 
 
@@ -32,7 +32,7 @@
 
 **Type:** csv
 
-**Applications used for Data cleaning and visualisation:** **Python, Excel, Tableau**
+**Tools used for Data cleaning and visualisation:** **Python, Excel, Tableau**
 
 **Link:** https://public.tableau.com/app/profile/amit1775/viz/CategoryManagement_16056355012950/SalesPerformanceDashboard
 
@@ -46,7 +46,7 @@
 
 **Type:** Questionnare
 
-**Applications used for Data cleaning and visualisation:** **Excel, Tableau**
+**Tools used for Data cleaning and visualisation:** **Excel, Tableau**
 
 **Link:** https://public.tableau.com/app/profile/amit1775/viz/HRDataAnalyticsKPIDashboard/HRDataAnalyticsKPI
 
@@ -58,7 +58,7 @@
 
 **Type:** Questionnare
 
-**Applications used for Data cleaning and visualisation**: **SPSS, Excel, Qliksense** 
+**Tools used for Data cleaning and visualisation**: **SPSS, Excel, Qliksense** 
 
 **Link:** https://github.com/mistryamit03/Data-Visualization-Projects/blob/main/Project%20-%20An%20Email%20Survey%20-%20Data%20Visualization%2C%20Interpretation%20and%20Storytelling.pdf
  
@@ -85,7 +85,7 @@ The K-means clustering algorithm is a simple unsupervised algorithm that’s use
 
 **Type:** Structured Dataset
 
-**Applications used for Data cleaning:** **Excel, Jupyter Notebook Python**
+**Tools used for Data cleaning:** **Excel, Jupyter Notebook Python**
 
 **Projectlink:** https://medium.com/@mistryamit03/starbucks-menu-optimization-55735d431f51
 
@@ -110,6 +110,6 @@ To determine
 
 **Type:** Structured Dataset
 
-**Applications used for Data cleaning:** **Excel, Jupyter Notebook Python**
+**Tools used for Data cleaning:** **Excel, Jupyter Notebook Python**
 
 **Projectlink:** https://medium.com/@mistryamit03/data-design-spotify-regional-data-b35c7800f493 
