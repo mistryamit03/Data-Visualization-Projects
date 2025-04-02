@@ -19,7 +19,7 @@ Marketing / Advertising Analytics
 ## Dataset Type: 
 csv
 
-## Tools used for Data cleaning and visualisation**: 
+## Tools used for Data cleaning and visualisation: 
 
 Python, Excel, Looker Studio 
 
