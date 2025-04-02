@@ -9,6 +9,12 @@ This dashboard aims to support HR teams in:
 - **Enhancing workforce planning and retention strategies**  
 
 ---
+**Dataset:** Structured dataset
+
+**Domain:** HR Analytics
+
+**Tools used for Data cleaning and visualisation:** **Excel, Tableau**
+---
 
 ## **Objectives**  
 1. **Analyze Employee Attrition Patterns**  
