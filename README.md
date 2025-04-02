@@ -65,7 +65,7 @@
 
 
 
-# Data Analytics Blogs
+# Data Analytics Blogs written on Medium
 
 **4. Menu Optimization, Segmentation, and Clustering using Supervised Machine Learning Model - K-means Clustering**
 
