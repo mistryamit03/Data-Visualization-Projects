@@ -15,7 +15,9 @@ Structured dataset
 ## **Domain**  
 HR Analytics
 
-**Tools used for Data cleaning and visualisation:** **Excel, Tableau**
+## **Tools used for Data Cleaning and Visualization**
+Excel and Tableau
+
 ---
 
 ## **Objectives**  
