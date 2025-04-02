@@ -3,6 +3,22 @@
 ## 📌 Scope
 The **Sales Performance KPI Dashboard** provides an analytical view of category management by evaluating sales trends, profit distribution, and customer performance. This dashboard helps stakeholders gain insights into key business metrics, such as sales, profit margins, discount strategies, and regional performance. The focus is on data-driven decision-making to improve sales efficiency and profitability.
 
+---
+
+## Dataset: 
+*Structured dataset*
+
+## Domain: 
+*Operations and Finance*
+
+## Dataset Type:
+*csv*
+
+## Tools used for Data cleaning and visualisation: 
+*Python, Excel, Tableau*
+
+---
+
 ## 🎯 Objectives
 1. **Analyze Sales Performance** – Identify sales trends across different categories and segments.
 2. **Evaluate Profitability** – Assess profit margins by category and customer contribution to profitability.
