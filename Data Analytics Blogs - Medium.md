@@ -24,10 +24,10 @@ The K-means clustering algorithm is a simple unsupervised algorithm used for qui
 Blogged about a project focused on analyzing music trends using Tableau. This project aimed to visualize data from Spotify's regional top charts to understand trends in streaming habits across different countries.
 
 **Final Result:**  
-- Determining the most popular artists in Spotify's top 200.
-- Analyzing how listening habits and track popularity vary from country to country.
-- Identifying the most popular and trending tracks.
-- Tracking the most streamed tracks over time.
+- Determined the most popular artists in Spotify's top 200.
+- Analyzed how listening habits and track popularity vary from country to country.
+- Identified the most popular and trending tracks.
+- Tracked the most streamed tracks over time.
 
 **Dataset Link:** [Spotify Charts](https://spotifycharts.com/regional)  
 **Type:** Structured Dataset  
