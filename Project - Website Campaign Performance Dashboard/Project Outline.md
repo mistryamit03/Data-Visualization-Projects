@@ -9,6 +9,22 @@ The **Digital Marketing Conversion** dataset provides a comprehensive view of us
 
 It is ideal for analyzing **marketing effectiveness** and **user behavior patterns**.
 
+---
+## Dataset: 
+Structured dataset
+
+## Domain: 
+Marketing / Advertising Analytics
+
+## Dataset Type: 
+csv
+
+## Tools used for Data cleaning and visualisation**: 
+
+Python, Excel, Looker Studio 
+
+---
+
 ## Key Columns
 - **Age**: Age of the user.
 - **Gender**: Gender of the user (e.g., Male, Female, Other).
