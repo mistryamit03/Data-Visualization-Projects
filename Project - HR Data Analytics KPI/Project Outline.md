@@ -73,5 +73,5 @@ Excel and Tableau
 ---
 This dashboard provides **actionable insights** to help HR teams **reduce attrition, improve employee satisfaction, and create a more engaged workforce**. 🚀
 
-## **Dashbaord Link**
+## **Dashboard Link**
 **Link:** https://public.tableau.com/app/profile/amit1775/viz/HRDataAnalyticsKPIDashboard/HRDataAnalyticsKPI
